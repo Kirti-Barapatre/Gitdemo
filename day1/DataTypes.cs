@@ -20,7 +20,7 @@ namespace programday1
 		}
 	    void Add()
 	    {
-		    int c= 55+22;
+		    int c= 75+22;
 	    }
 
 		void TypeConversion()
