@@ -18,6 +18,10 @@ namespace programday1
 			Console.WriteLine("Name:{0} && Age:{1} ", name, age);
 
 		}
+	    void Add()
+	    {
+		    int c= 55+22;
+	    }
 
 		void TypeConversion()
 		{
